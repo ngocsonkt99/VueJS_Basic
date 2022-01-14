@@ -1,0 +1,26 @@
+{
+  "name": "vuejs_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngocsonkt99/VueJS_Basic.git"
+  },
+  "keywords": [
+    "VueJS",
+    "Basic"
+  ],
+  "author": "SonUN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngocsonkt99/VueJS_Basic/issues"
+  },
+  "homepage": "https://github.com/ngocsonkt99/VueJS_Basic#readme",
+  "dependencies": {
+    
+  }
+}
